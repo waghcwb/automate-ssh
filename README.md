@@ -1,5 +1,5 @@
 # AutomateSSH
-Automate SSH tasks
+Automate SSH tasks with Python
 
 ## Login with ssh key
 
