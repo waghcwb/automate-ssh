@@ -76,4 +76,4 @@ if __name__ == "__main__":
 `$ python setup.py install`
 
 # Todos
-- [x] Multiple users and password for different hosts
+- [ ] Multiple users and password for different hosts
