@@ -5,7 +5,7 @@ Automate SSH tasks with Python
 
 `update.py`
 
-```
+```python
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 
@@ -39,7 +39,7 @@ if __name__ == "__main__":
 
 `update.py`
 
-```
+```python
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 
